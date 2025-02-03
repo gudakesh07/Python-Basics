@@ -1,1 +1,3 @@
-from test_py import chai 
+from test import chai
+
+chai("ginger tea")
